@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "HEP Publications"
+permalink: /heppublications/
 author_profile: true
 ---
 
