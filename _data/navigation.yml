@@ -2,7 +2,10 @@
 main:
   - title: "HEP publications"
     url: /heppublications/
-
+  
+  - title: "ML publications"
+    url: /mlpublications/
+  
   - title: "Talks"
     url: /talks/    
 
@@ -17,6 +20,3 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
