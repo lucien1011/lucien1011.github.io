@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "HEP publications"
+    url: /heppublications/
 
   - title: "Talks"
     url: /talks/    
